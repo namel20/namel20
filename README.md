@@ -85,15 +85,6 @@ A desktop application supporting CRUD operations, business analytics, and profit
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namel20&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namel20&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 🎓 Education
 
 **Habib University** — Bachelor of Computer Science (Class of 2026)  
