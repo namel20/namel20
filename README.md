@@ -45,23 +45,27 @@ Currently looking for **junior software / AI roles** where I can grow while cont
 
 ## 🚀 Projects
 
-### 🔹 NLP Sarcasm Detection
+### 🔹 NLP Sarcasm Detection (GROUP PROJECT- ACADEMIC)
 **Python • BiLSTM • Word2Vec • GloVe • BERT**  
 Built a binary sarcasm classifier comparing traditional embeddings with transformer-based representations on headlines and tweets.
 
-🔗 Repo: https://github.com/namel20
+🔗 Repo: https://github.com/breehaqasim/sarcasm-detection-embeddings.git
 
 ---
 
-### 🔹 Skincare & Beauty Consultancy Platform
+### 🔹 Skincare & Beauty Consultancy Platform (GROUP PROJECT- ACADEMIC)
 **React.js • Firebase • HTML/CSS**  
 A responsive web platform with authentication, product listings, and appointment scheduling.
 
+🔗 Repo: https://github.com/breehaqasim/GlowSense-Skincare-Beauty-Consultancy-Platform.git
+
 ---
 
-### 🔹 GDS Bibliographic Graph Project
+### 🔹 GDS Bibliographic Graph Project (GROUP PROJECT- ACADEMIC)
 **Neo4j • Cypher • GraphML**  
 Constructed a graph-based system to categorize research articles and predict co-authorship using machine learning models.
+
+🔗 Repo: https://github.com/breehaqasim/GDS-Bibliographic-GraphML-Project.git
 
 ---
 
@@ -69,11 +73,15 @@ Constructed a graph-based system to categorize research articles and predict co-
 **C++ • OOP • SFML**  
 A multi-level Pacman game implementing polymorphism, inheritance, and interactive graphics.
 
+🔗 Repo: https://github.com/namel20/OOPproj2025.git
+
 ---
 
-### 🔹 Seller’s Solution
+### 🔹 Seller’s Solution (GROUP PROJECT- ACADEMIC)
 **Python • MySQL • Qt Designer**  
 A desktop application supporting CRUD operations, business analytics, and profit/loss reporting.
+
+🔗 Repo: https://github.com/namel20/DATA-BASE-PROJECT-2023.git
 
 ---
 
